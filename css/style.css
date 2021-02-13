@@ -80,7 +80,7 @@ light {
 
 
 #image-two {
-    background-image: url("1_card.png");
+    background-image: url("../Images/1_card.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 30vh;
